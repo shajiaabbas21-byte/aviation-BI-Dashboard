@@ -1,6 +1,6 @@
 # Aviation Analytics Dashboard
 
-End-to-end SQL + Power BI analysis of 150,000 airline flight records.
+End-to-end SQL + Power BI analysis of 150,00 airline flight records.
 
 ## 🔗 View the Dashboard
 📄 [PDF Version](https://drive.google.com/file/d/1gpkv3al-aOJMcwz5xlxQohLw8LCJh-Z6/view?usp=drive_link)
@@ -26,5 +26,3 @@ End-to-end SQL + Power BI analysis of 150,000 airline flight records.
 - screenshots/ — Page-by-page images
 ## 📬 Contact
 Shajia Abbas | https://www.linkedin.com/in/shajia1214 | Shajiaabbas21@gmail.com
-## 📬 Contact
-[Your Name] | [Your LinkedIn] | [Your Email]
